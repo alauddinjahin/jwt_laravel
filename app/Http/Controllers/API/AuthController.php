@@ -15,8 +15,6 @@ use PHPOpenSourceSaver\JWTAuth\Facades\JWTAuth;
 
 class AuthController extends Controller
 {
-    //https://laravel-jwt-auth.readthedocs.io/en/latest/laravel-installation/
-
 
     public $JWT_Service;
 
